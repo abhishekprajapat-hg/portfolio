@@ -1,0 +1,1 @@
+Welcome to my Portfolio Project repository! This project serves as a showcase of my skills, accomplishments, and projects. It's designed to provide visitors with an overview of my professional background. This README file will guide you through the setup and usage of the project.
