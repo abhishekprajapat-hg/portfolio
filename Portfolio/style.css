@@ -1,0 +1,153 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background: #080831;
+    color: white;
+    font-family: 'Heebo', sans-serif;
+}
+.bold{
+    font-family: 'Lobster', cursive;
+    font-weight: bold;
+    font-size: 25px;
+    text-decoration: none;
+    color: white;
+}
+nav{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 60px;
+    background: #1e1e4d;
+}
+nav ul {
+    display: flex;
+    justify-content: space-evenly
+}
+nav ul li {
+   list-style: none;
+   margin: 0 23px;
+}
+nav ul li a{
+    color: white;
+    text-decoration: none;
+}
+nav ul li a:hover{
+    color: rgb(179, 169, 240);
+    font-size: 18px;
+}
+img{
+    height: 20px;
+    width: 20px;
+    position: relative;
+    left: 7px;
+    bottom: -5px;
+}
+.first-section{
+    position: relative;
+    top: -8px;
+}
+.dev{
+    height: 40px;
+    width: 40px;
+    position: relative;
+    left: -14px;
+}
+.third-section{
+    height: 600px;
+    width: 550px;
+    background: rgb(55 54 153 / 97%);
+}
+.fourth-section{
+    position: relative;
+    display: inline-block;
+    top: -525px;
+    left: 350px;
+    height: 450px;
+    width: 600px;
+    background:wheat;
+    box-shadow: 0px 3px 50px black;
+}
+.profile{
+    height: 200px;
+    width: 200px;
+    position: relative;
+    left: 20px;
+    top: 20px;
+}
+.hello{
+    position: relative;
+    color: black;
+    font-size: 70px;
+    font-weight: bold;
+    font-family: 'Lobster', cursive;
+    top: -882px;
+    left: 650px;
+}
+.bio{
+    color: rgb(10, 10, 10);
+    margin: 50px 20px ;
+    font-weight: bold;
+    font-size: 14px;
+    font-family: 'Signika Negative', sans-serif;
+}
+button{
+    position: relative;
+    height: 35px;
+    width: 130px;
+    background: #6f8acb;
+    border: 2px solid wheat;
+    border-radius: 8px;
+    cursor: pointer;
+    left: 50px;
+    margin: 0 10px;
+}
+button:hover{
+    background-color: rgb(238, 201, 131);
+}
+#element{
+    position: relative;
+    color: black;
+    font-size: 23px;
+    font-family: 'Lobster', cursive;
+    left: 60px;
+    top: 10px;
+}
+
+footer{
+    background-color: #383855;
+    
+}
+.footer{
+    display: flex;
+    padding: 20px 120px;
+    justify-content: space-evenly;
+}
+footer .copyrights{
+    text-align: center;
+    padding: 15px 0;
+    color: #d2d2e7;
+}
+.footer-img{
+    margin: 20px;
+}
+.skills
+{
+    position: relative;
+    height: 300px;
+    width: 100%;
+    top: -280px;
+    border-radius: 50px;
+    box-shadow: 10px 10px 100px black;
+    background: #19123e;
+}
+.Edu{
+    padding: 25px;
+}
+.para{
+    margin-left: 20px;
+    margin-right: 20px;
+    color: rgb(147, 185, 172);
+}
