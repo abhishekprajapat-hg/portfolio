@@ -1,5 +1,7 @@
 import ProjectCard from "../components/ProjectCard";
-import ShopNest from "../assets/ShopNest.png"; // Example image
+import ShopNest from "../assets/ShopNest.png"; 
+import Portfolio from "../assets/portfolio.png"
+
 
 const projectData = [
   {
@@ -12,7 +14,7 @@ const projectData = [
   },
   {
     title: "Portfolio Website",
-    image: "https://via.placeholder.com/400x250",
+    image: Portfolio,
     tech: "React, Tailwind, Framer Motion",
     description: "My personal portfolio to showcase projects and skills with smooth animations.",
     live: "https://your-portfolio.vercel.app",

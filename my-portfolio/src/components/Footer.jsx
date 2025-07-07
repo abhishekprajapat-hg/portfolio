@@ -12,20 +12,20 @@ const Footer = () => {
         {/* Right: Social Icons */}
         <div className="flex gap-4 text-lg">
           <a
-            href="mailto:your@email.com"
+            href="abhi03prajapat@gmail.com"
             className="hover:text-blue-500 transition"
           >
             <FaEnvelope />
           </a>
           <a
-            href="https://github.com/yourgithub"
+            href="https://github.com/abhishekprajapat-hg"
             target="_blank"
             className="hover:text-blue-500 transition"
           >
             <FaGithub />
           </a>
           <a
-            href="https://linkedin.com/in/yourlinkedin"
+            href="https://www.linkedin.com/in/abhishek-prajapat-953689269/"
             target="_blank"
             className="hover:text-blue-500 transition"
           >

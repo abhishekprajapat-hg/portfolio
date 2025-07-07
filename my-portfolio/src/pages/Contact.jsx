@@ -29,7 +29,7 @@ const Contact = () => {
 
         <div className="flex justify-center gap-6 text-2xl text-white">
           <motion.a
-            href="mailto:your@email.com"
+            href="abhi03prajapat@gmail.com"
             className="hover:text-blue-500"
             whileHover={{ scale: 1.2 }}
           >
@@ -37,7 +37,7 @@ const Contact = () => {
           </motion.a>
 
           <motion.a
-            href="https://github.com/yourgithub"
+            href="https://github.com/abhishekprajapat-hg"
             target="_blank"
             className="hover:text-blue-500"
             whileHover={{ scale: 1.2 }}
@@ -46,7 +46,7 @@ const Contact = () => {
           </motion.a>
 
           <motion.a
-            href="https://linkedin.com/in/yourlinkedin"
+            href="https://www.linkedin.com/in/abhishek-prajapat-953689269/"
             target="_blank"
             className="hover:text-blue-500"
             whileHover={{ scale: 1.2 }}
